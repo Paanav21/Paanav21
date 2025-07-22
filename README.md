@@ -26,6 +26,12 @@
 - 🏆 Presented and Published a research paper entitled "Exploring the Relationship Between BMI Categories and
 Sleep Disorders: A Comprehensive Analysis" in ICICC Conference
 
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaanavPuri&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaanavPuri&layout=compact)
+
+
 ## 🤝 Communities
 - 🔰 Event Management Lead @GDSC BVCOE(2024-2025)
 - 📣 Hosted 10+ tech events
