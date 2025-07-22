@@ -28,8 +28,10 @@ Sleep Disorders: A Comprehensive Analysis" in ICICC Conference
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaanavPuri&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaanavPuri&layout=compact)
+![Paanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paanav21&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paanav21&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Paanav21)
+
 
 
 ## 🤝 Communities
