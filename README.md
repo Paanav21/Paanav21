@@ -16,10 +16,6 @@
 - Collaborate on projects with Git & GitHub
 
 
-## 📫 Contact Me
-- 📧 Email: paanavpuri@gmail.com
-- 💼 [LinkedIn]: www.linkedin.com/in/paanav-puri-708003257
-
 ## 🏆 Achievements & Certifications
 
 - 🥇 Winner - “Pause” BVCOE Treasure Hunt (Top 3 among 150+ teams) 
@@ -34,9 +30,9 @@ Sleep Disorders: A Comprehensive Analysis" in ICICC Conference
 - 🔰 Event Management Lead @GDSC BVCOE(2024-2025)
 - 📣 Hosted 10+ tech events
 
-## 📫 Let’s Connect
-- Email- paanavpuri@gmail.com
-- Linkedin- www.linkedin.com/in/paanav-puri-708003257
+## 📫 Contact Me
+- 📧 Email: paanavpuri@gmail.com
+- 💼 [LinkedIn]: www.linkedin.com/in/paanav-puri-708003257
 <!--
 **Paanav21/Paanav21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
